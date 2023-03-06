@@ -1,0 +1,16 @@
+{
+    "user":{
+        "username":"jorge",
+        "password":"jorge01",
+        "roles":[
+            {"id":1},
+            {"id": 2}
+        ]
+    },
+    "userProfile":{
+        "idCard": 1100450678,
+        "name": "Jorge",
+        "surname": "Acosta",
+        "phoneNumber": "3145578456"
+    }
+}
